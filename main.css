@@ -1,0 +1,20 @@
+
+h2{
+    margin-top: 32px;
+    border-radius: 12px;
+
+}
+.btn{
+    display: block;
+    margin-top: 21px;
+}
+.row{
+    margin: 0 auto;
+}
+.row label{
+    margin-top: 12px;
+}
+
+.row input{
+    margin-bottom: 12px;
+}
